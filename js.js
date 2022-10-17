@@ -1,5 +1,5 @@
 function goto1() {
-    location.replace("/ModWebstite_Abstractiox/modspage.html")
+    location.replace("https://abstractiox.github.io/Abstractiox_Mods/modspage.html")
 }
 
 function goto2() {
